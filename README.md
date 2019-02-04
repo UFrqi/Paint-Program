@@ -20,5 +20,4 @@ This paint program includes the following:
    Photo of blank canvas:
    ![](https://i.gyazo.com/e72fe6ad82c7192b347a8b78285d786a.png)
    
-   Photo showing some features:
-   ![](https://i.gyazo.com/c699ad40f9ab465a1b3567e0c8095167.png)
+  
