@@ -17,7 +17,6 @@ This paint program includes the following:
     -New/clear canvas feature
     
    
-   Photo of blank canvas:
    ![](https://i.gyazo.com/e72fe6ad82c7192b347a8b78285d786a.png)
    
   
